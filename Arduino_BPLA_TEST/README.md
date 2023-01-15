@@ -17,7 +17,7 @@
 
 ## Setup
 
-![Calibrate](Controller.drawio.png)
+![Calibrate](Controller1.drawio.png)
 
 ![Center](Controller2.drawio.png)
 
