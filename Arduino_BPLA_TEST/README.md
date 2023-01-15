@@ -17,20 +17,20 @@
 
 ## Setup
 
-![Calibrate](Controller1.drawio.png)
+![Calibrate](./doc/Controller1.drawio.png)
 
-![Center](Controller2.drawio.png)
+![Center](./doc/Controller2.drawio.png)
 
-![End](Controller3.drawio.png)
+![End](./doc/Controller3.drawio.png)
 
 ## Usage
 
 **You can see output from controller on serial and plane output on servos and motor** 
 
-![Usage](Controller4.drawio.png)
+![Usage](./doc/Controller4.drawio.png)
 
-![Engine](Controller5.drawio.png)
+![Engine](./doc/Controller5.drawio.png)
 
-![Trim switch](Controller6.drawio.png)
+![Trim switch](./doc/Controller6.drawio.png)
 
-![Trim value](Controller7.drawio.png)
+![Trim value](./doc/Controller7.drawio.png)
